@@ -1,0 +1,1 @@
+Hey there, this readme is gonna be shitty. The code to run the q learning is in file q_learner.py. The function train() should provide an example of how to create a q_learner and train it. That method night not be the best way to do it though. It is best to anneal the value of epsilon to encourage more exploitation as the model learns. Womp.
